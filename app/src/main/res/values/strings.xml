@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tracking_a_device_2020</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="googlemaps_key">AIzaSyAjIbfdh6ZuGbIVWRkPmjak0HsRXJiO42o</string>
+</resources>

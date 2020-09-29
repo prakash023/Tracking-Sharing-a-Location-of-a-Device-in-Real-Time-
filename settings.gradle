@@ -1,0 +1,2 @@
+rootProject.name='Tracking_a_device_2020'
+include ':app'
